@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Adarsh",
+      "lastName": "Maraskolhe",
+      "email": "adarsh@gmail.com",
+      "dob": "1998-06-20T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Under Gaduate",
+      "company": "TechM",
+      "experience": 2,
+      "package": 7,
+      "id": 1
+    },
+    {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@gmail.com",
+      "dob": "2023-11-05T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 2,
+      "package": 6,
+      "id": 2
+    }
+  ]
+}
